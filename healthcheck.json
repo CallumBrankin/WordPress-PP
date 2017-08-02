@@ -1,46 +1,46 @@
 {
-	"CheckWebService":{
-		current: "succeeded",
-		lastUpdated: "2017-08-02T10:23:28+00:00"
-	},
-	"CheckDatabaseExists":{
-		current: "succeeded",
-		lastUpdated: "2017-08-02T10:23:28+00:00"
-	},
-	"HealthcheckRedis":{
-		current: "succeeded",
-		lastUpdated: "2017-08-02T10:23:28+00:00"
-	},
-	"HealthcheckRODB":{
-		current: "succeeded",
-		lastUpdated: "2017-08-02T10:23:28+00:00"
-	},
-	"HealthcheckWDB":{
-		current: "succeeded",
-		lastUpdated: "2017-08-02T10:23:28+00:00"
-	},
-	"WebServiceVersion":{
-		current: "2.5.0.0",
-		lastUpdated: "2017-08-02T10:23:28+00:00"
-	},
-	"RWebServiceVersion":{
-		current: "2.4.1 - Succeeded",
-		lastUpdated: "2017-08-02T10:23:28+00:00"
-	},
-	"OAuth2DevUpdates":{
-		current: "succeeded",
-		lastUpdated: "2017-08-02T10:23:28+00:00"
-	},
-	"GeoTest":{
-		current: "succeeded",
-		lastUpdated: "2017-08-02T10:23:28+00:00"
-	},
-	"WebAppRedis":{
-		current: "succeeded",
-		lastUpdated: "2017-08-02T10:23:28+00:00"
-	},
-	"WebAppVersion":{
-		current: "3.4.4.0",
-		lastUpdated: "2017-08-02T10:23:28+00:00"
-	}
+  "CheckWebService": {
+    "current": "succeeded",
+    "lastUpdated": "2017-08-02T10:23:28+00:00"
+  },
+  "CheckDatabaseExists": {
+    "current": "succeeded",
+    "lastUpdated": "2017-08-02T10:23:28+00:00"
+  },
+  "HealthcheckRedis": {
+    "current": "succeeded",
+    "lastUpdated": "2017-08-02T10:23:28+00:00"
+  },
+  "HealthcheckRODB": {
+    "current": "succeeded",
+    "lastUpdated": "2017-08-02T10:23:28+00:00"
+  },
+  "HealthcheckWDB": {
+    "current": "succeeded",
+    "lastUpdated": "2017-08-02T10:23:28+00:00"
+  },
+  "WebServiceVersion": {
+    "current": "2.5.0.0",
+    "lastUpdated": "2017-08-02T10:23:28+00:00"
+  },
+  "RWebServiceVersion": {
+    "current": "2.4.1 - Succeeded",
+    "lastUpdated": "2017-08-02T10:23:28+00:00"
+  },
+  "OAuth2DevUpdates": {
+    "current": "succeeded",
+    "lastUpdated": "2017-08-02T10:23:28+00:00"
+  },
+  "GeoTest": {
+    "current": "succeeded",
+    "lastUpdated": "2017-08-02T10:23:28+00:00"
+  },
+  "WebAppRedis": {
+    "current": "succeeded",
+    "lastUpdated": "2017-08-02T10:23:28+00:00"
+  },
+  "WebAppVersion": {
+    "current": "3.4.4.0",
+    "lastUpdated": "2017-08-02T10:23:28+00:00"
+  }
 }
